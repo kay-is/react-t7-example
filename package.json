@@ -1,0 +1,15 @@
+{
+  "name": "react-t7-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm i && npm start",
+    "start": "http-server -c-1"
+  },
+  "author": "Kay Plößer",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
